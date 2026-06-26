@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Datos Climáticos de Terceros
+
+Los datos climáticos incluidos en matriz_final.csv provienen de fuentes externas con sus propias licencias:
+
+    CRU-TS4.03 (Harris y otros, 2020): Datos de acceso abierto con atribución requerida
+
+    scPDSI (van der Schrier y otros, 2013): Datos de acceso abierto con atribución requerida
