@@ -4,7 +4,7 @@ Este repositorio contiene los datos procesados para el análisis de mortalidad d
 📁 datos/
 ├── 📄 matriz_final.csv          # Serie temporal con variables climáticas y de mortalidad
 ├── 📄 cluster_data.csv          # Datos de árboles muertos con variables estructurales y cluster
-└── 📄 Database_vivos.csv        # Datos de árboles vivos con variables estructurales
+└── 📄 DB_Vivos.csv        # Datos de árboles vivos con variables estructurales
 1. matriz_final.csv
 Serie temporal que combina variables climáticas, de crecimiento y mortalidad para el período 1959-2015 (aproximadamente).
 Variable	Descripción	Unidades
@@ -31,7 +31,7 @@ Competencia	Índice de competencia con árboles vecinos	Adimensional
 Densidad	Densidad de árboles en el área	árboles/ha
 Cluster	Asignación de cluster (k-means o similar)	Categórico (1-3)
 
-3. Database_vivos.csv
+3. DB_Vivos.csv
 
 Datos de árboles vivos con variables estructurales similares a los datos de muertos.
 Variable	Descripción	Unidades
